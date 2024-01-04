@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Giri</h1>
-<h3 align="center">A passionate Mobile Application Developer, Currently in Toronto, Ontario</h3>
+<h3 align="center">A Passionate Mobile Application Developer, Currently in Toronto, Ontario</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgiri1998&label=Profile%20views&color=0e75b6&style=flat" alt="akashgiri1998" /> </p>
 
@@ -10,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akash-giri-449597184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-giri-449597184" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akashgiri1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashgiri1998" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
