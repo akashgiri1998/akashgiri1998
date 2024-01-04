@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **nodejs, expressjs, mongodb, AWS,etc.**
 
-- 💬 Ask me about **React Native, React, Redux, TypeScript, JavaScript**
+- 💬 Ask me about **React Native, React, Redux, TypeScript, JavaScript, Storybook, GraphQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
