@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Giri</h1>
 <h3 align="center">A passionate Mobile Application Developer, Currently in Toronto, Ontario</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shotprogrammeranimation%2F&psig=AOvVaw1KrSQLMuTE8mRLiLcyXYKQ&ust=1704495644594000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiPyaDrxIMDFQAAAAAdAAAAABAS" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgiri1998&label=Profile%20views&color=0e75b6&style=flat" alt="akashgiri1998" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashgiri1998" alt="akashgiri1998" /></a> </p>
 
 - 🌱 I’m currently learning **nodejs, expressjs, mongodb, AWS,etc.**
 
